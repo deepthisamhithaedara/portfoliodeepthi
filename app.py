@@ -44,6 +44,7 @@ Proactive computer science graduate driven by a passion for technology and with 
 Machine Learning with python, Database 
 administration & development.
 - Microsoft Certified Azure Data Engineer
+- Microsoft Certified Azure Administrator
 
  """)
 
