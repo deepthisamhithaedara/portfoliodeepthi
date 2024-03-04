@@ -24,7 +24,7 @@ if selected == 'About':
     with st.container():
         st.write("##")
         st.write(""" 
-Proactive computer science graduate driven by a passion for technology and with a extensive professional background. Skilled in databases, cloud platforms, and Python programming, showcasing a robust technical acumen.""")
+Proactive computer science graduate driven by a passion for technology and with a extensive professional background. Skilled in databases, cloud platforms, and Python programming.""")
         st.write(" --- ")
         with st.container():
             col3, col4 = st.columns(2)
@@ -83,7 +83,7 @@ if selected =="Experience":
         st.header(" EXPERIENCE ")
         st.text("")
         st.subheader(""" MICROSOFT, Hyderabad | April 2021 - January 2023
-**CLOUD TECHNICAL ENGINEER - DATABASES**
+**TECHNICAL CLOUD DATABASE ENGINEER**
 - Worked on SQL on Azure, SQL Core, High Availability, SQL Performance. skilled in handling diverse cases including SQL Installation planning, database design, migration, High Availability, security, and performance tuning.
 - Led the technical resolution of 100+ mission-critical SQL server databases (and Azure) improving business continuity and minimizing production downtime by prioritizing the most critical issues and identifying the root cause.
 - Collaborated with SQL and Azure escalation engineers and product teams to identify and resolve complex bugs.
